@@ -1,0 +1,20 @@
+{
+  "name": "projectmanagement",
+  "version": "1.0.0",
+  "description": "project management application for begginers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "author": "Swagat Chougule",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.7.4"
+  }
+}
